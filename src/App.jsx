@@ -68,14 +68,14 @@ export default function Portfolio() {
     {
       title: "Moodify – Mood Based Music App",
       desc: "A full-stack app that recommends music based on user mood with authentication and responsive UI.",
-      image: "../public/Moodify gif.gif",
+      image: "/Moodify gif.gif",
       live: "https://moodify-zzta.onrender.com",
       github: "https://github.com/iamDeb5/Moodify",
     },
     {
       title: "Perplexity - AI Chat App",
       desc: "Real-time chat application with typing indicators and socket-based communication.",
-      image: "../public/perplexityGIF.gif",
+      image: "/perplexityGIF.gif",
       live: "#",
       github:
         "https://github.com/iamDeb5/BackEnd-Practice-Projects/tree/main/Perplexity",
@@ -121,7 +121,7 @@ export default function Portfolio() {
         {/* Resume */}
         <div className="mt-6">
           <a
-            href="../public/Debojyoti_Khanra_Resume_MERN.pdf"
+            href="/Debojyoti_Khanra_Resume_MERN.pdf"
             download
             className="magnetic relative inline-flex items-center gap-2 text-sm tracking-wide text-[#76869B] group"
           >
