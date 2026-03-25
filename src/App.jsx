@@ -68,7 +68,7 @@ export default function Portfolio() {
     {
       title: "Moodify – Mood Based Music App",
       desc: "A full-stack app that recommends music based on user mood with authentication and responsive UI.",
-      image: "/Moodify gif.gif",
+      image: "/Moodify.gif",
       live: "https://moodify-zzta.onrender.com",
       github: "https://github.com/iamDeb5/Moodify",
     },
